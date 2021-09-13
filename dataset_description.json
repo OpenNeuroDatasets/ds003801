@@ -1,0 +1,14 @@
+{
+  "Name": "Neural Tracking to go",
+  "BIDSVersion": "v2.0",
+  "License": "Creative commons",
+  "Authors": [
+    "Lisa Straetmans",
+    "Bjoern Holtze",
+    "Stefan Debener",
+    "Manuela Jaeger",
+    "Bojana Mirkovic"
+  ],
+  "ReferencesAndLinks": ["article link follows"],
+  "DatasetDOI": ""
+}
